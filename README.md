@@ -25,8 +25,12 @@ Examples
 
 # Não rodar
 token <- "xxxxxxxxxxxxxxxxxxxxxxx"
+
 pasta <- "C:/nome/da/pasta" # obs.: não termine com "/"
+
 CODMES <- "01"    # obs.: entre aspas, "01" para janeiro
+
 CODANO <- "2020" # obs.: entre aspas.
+
 
 API_AE(token, pasta, CODMES, CODANO)
