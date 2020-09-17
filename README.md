@@ -7,11 +7,15 @@ São 4 funções, uma pra cada benefício:
 - API_PBF: para o Programa Bolsa Família
 - API_SD: para o Seguro Defeso
 
+
+
+
+
+## Arguments
+
 Todos têm os mesmos argumentos:
 
 API_AE(token, pasta, CODMES, CODANO=2020)
-
-Arguments
 token: chave de acesso do Portal da TransparÃªncia
 
 pasta: pasta em que o arquivo final vai ser salva
@@ -21,9 +25,9 @@ CODMES: número do mês (character)
 CODANO: Ano
 
 
-Examples
+## Examples
 
-# Não rodar
+### Não rodar
 token <- "xxxxxxxxxxxxxxxxxxxxxxx"
 
 pasta <- "C:/nome/da/pasta" # obs.: não termine com "/"
