@@ -28,13 +28,14 @@ CODANO: Ano
 ## Examples
 
 *Não rodar*
-token <- "xxxxxxxxxxxxxxxxxxxxxxx"
 
-pasta <- "C:/nome/da/pasta" # obs.: não termine com "/"
+*token <- "xxxxxxxxxxxxxxxxxxxxxxx"*
 
-CODMES <- "01"    # obs.: entre aspas, "01" para janeiro
+*pasta <- "C:/nome/da/pasta" # obs.: não termine com "/"
 
-CODANO <- "2020" # obs.: entre aspas.
+*CODMES <- "01"    # obs.: entre aspas, "01" para janeiro
+
+*CODANO <- "2020" # obs.: entre aspas.
 
 
-API_AE(token, pasta, CODMES, CODANO)
+*API_AE(token, pasta, CODMES, CODANO)
