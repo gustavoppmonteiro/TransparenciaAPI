@@ -27,7 +27,7 @@ CODANO: Ano
 
 ## Examples
 
-### Não rodar
+*Não rodar*
 token <- "xxxxxxxxxxxxxxxxxxxxxxx"
 
 pasta <- "C:/nome/da/pasta" # obs.: não termine com "/"
