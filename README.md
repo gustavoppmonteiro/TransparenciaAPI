@@ -1,6 +1,6 @@
 # TransparenciaAPI
 
-As funções servem para baixar do API do Portal da Transparência as informações de beneficiários de todos os municípios do Brasil, para determinado mês.
+São quatro funções servem para baixar do API do Portal da Transparência as informações de beneficiários de todos os municípios do Brasil, para determinado mês.
 São 4 funções, uma pra cada benefício:
 - API_AE: para o Auxílio Emergencial
 - API_BPC: para o Benefício de Prestação Continuada
